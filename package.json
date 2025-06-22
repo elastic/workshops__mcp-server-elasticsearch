@@ -44,7 +44,9 @@
     "@arizeai/openinference-instrumentation-mcp": "^0.2.0",
     "@elastic/elasticsearch": "^9.0.0",
     "@elastic/opentelemetry-node": "1.0.0",
-    "@modelcontextprotocol/sdk": "1.12.1"
+    "@modelcontextprotocol/sdk": "1.12.1",
+    "axios": "^1.7.2",
+    "@types/axios": "^0.14.0"
   },
   "engines": {
     "node": ">=18"

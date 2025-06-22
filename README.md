@@ -1,3 +1,14 @@
+# IMPORTANT!! THIS IS A FORK FOR WORKSHOPS!!!
+# THIS CONTAINS MODIFICATIONS FOR WORKSHOP USE 
+# IT IS NOT FOR PRODUCTION CODE
+---
+## USE THE ORIGINAL ELASTIC MCP SERVER
+ORIGINAL -> https://github.com/elastic/mcp-server-elasticsearch
+
+---
+---
+---
+---
 # Elasticsearch MCP Server
 
 This repository contains experimental features intended for research and evaluation and are not production-ready.
